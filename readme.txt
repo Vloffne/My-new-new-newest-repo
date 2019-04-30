@@ -14,3 +14,4 @@ Button1.pack(fill="x")
 button2 = tkr.Notton(player, width=5,height=3, text="STOP", command=ExitPlayer)
 
 
+
